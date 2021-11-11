@@ -1,0 +1,19 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Monaco client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "monaco-editor": "^0.20.0",
+    "monaco-editor-core": "^0.20.0",
+    "monaco-editor-webpack-plugin": "^1.9.0",
+    "monaco-languageclient": "^0.13.0",
+    "net": "^1.0.2",
+    "vscode-ws-jsonrpc": "^0.2.0"
+  }
+}
